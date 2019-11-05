@@ -86,3 +86,6 @@ if arguments.action in ['generate', 'oneshot']:
     sortie = open(arguments.file, "w", enconding='utf-8')
     sortie.write(BOM+'\n'.join(output_list))
     sortie.close()
+
+
+    https://wotlk.evowow.com/
